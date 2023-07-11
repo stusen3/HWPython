@@ -1,0 +1,21 @@
+ПОЛЕЗНАЯ ЛИТЕРАТУРА
+
+https://habr.com/ru/articles/132554/
+
+https://habr.com/ru/companies/domclick/articles/674194/ итератор
+
+https://pavel-karateev.gitbook.io/intermediate-python/sintaksis/ternary_operators  - тернарный итератор
+
+
+
+
+
+
+
+
+
+
+
+
+
+
